@@ -1,7 +1,7 @@
 # Projeto Html/Css
 
 <h1 align="center">
-  <img alt="git_github" title="git_github" src="[https://imgur.com/a/ttuePke](https://i.imgur.com/c38alDN.png)" />
+  <img alt="git_github" title="git_github" src="https://i.imgur.com/c38alDN.png" />
 </h1>
 
 <br>
